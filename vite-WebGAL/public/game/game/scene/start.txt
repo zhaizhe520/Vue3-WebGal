@@ -1,0 +1,22 @@
+;初始场景，以及特效演示
+bgm:选择背景音乐;
+unlockBgm: -name=雲を追いかけて;
+intro:你好|我是神 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:选择背景文件 -next;
+unlockCg:bg.webp -name=良夜; // 解锁CG并赋予名称
+changeFigure:选择立绘文件 -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+丛雨:第一个webgal -v1.wav;
+; 模版修改演示
+丛雨:普通对话框 -v1.wav -fontSize=large;
+miniAvatar:20211210012110.png;
+带有小头像的对话框 -fontSize=default;
+setTextbox:hide;
+changeFigure:20211210012110.png;
+changeFigure:选择立绘文件 -next;
+choose:选项:选择场景文件|选项2:选择场景文件;
+applyStyle:TextBox_ShowName_Background->TextBox_ShowName_Background_Red;
+applyStyle:TextBox_ShowName_Background->TextBox_ShowName_Background_Red;
+applyStyle:TextBox_ShowName_Background->TextBox_ShowName_Background_Red;
+applyStyle:TextBox_ShowName_Background->TextBox_ShowName_Background_Red;
+applyStyle:TextBox_ShowName_Background->TextBox_ShowName_Background_Red;
