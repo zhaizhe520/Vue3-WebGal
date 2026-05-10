@@ -9,7 +9,6 @@
 </template>
 
 <style scoped>
-/* 让游戏撑满整个屏幕 */
 .webgal-container {
   width: 700px;
   height: 400px;

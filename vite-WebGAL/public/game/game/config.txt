@@ -1,5 +1,10 @@
-Game_name:yozusoft;
-Game_key:3013d0b17f4a32c;
-Title_img:WebGAL_New_Enter_Image.webp;
-Title_bgm:s_Title.mp3;
+Game_name:丛雨的个人介绍;
+Game_key:76f8d0aeffafcb4;
+Title_img:background.jpg;
+Title_bgm:angal-note.mp3;
 Textbox_theme:imss;
+Default_Language:zh_CN;
+Package_name:youzusoft;
+Steam_AppID:;
+Game_Logo:;
+Description:丛雨的个人介绍;

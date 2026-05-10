@@ -1,0 +1,6 @@
+miniAvatar:none;
+丛雨:是吗？;
+changeFigure:选择立绘文件;
+changeBg:change1.jpg;
+丛雨:しね！！！！！！！！！！！！！！！！！;
+end;

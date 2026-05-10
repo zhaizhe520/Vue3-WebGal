@@ -1,0 +1,6 @@
+丛雨:谢谢你;
+丛雨:能告诉我你的名字吗？;
+getUserInput:name -title=名字 -buttonText=确定;
+丛雨:{name}是吧，我记住了！;
+丛雨:期待与{name}终有一天的邂逅！;
+end;

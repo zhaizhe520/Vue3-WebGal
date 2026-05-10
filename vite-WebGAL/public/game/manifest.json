@@ -1,9 +1,9 @@
 {
-  "name": "yozusoft",
-  "short_name": "yozusoft",
+  "name": "丛雨的个人介绍",
+  "short_name": "丛雨的个人介绍",
   "start_url": ".",
   "display": "fullscreen",
-  "description": "",
+  "description": "丛雨的个人介绍",
   "dir": "auto",
   "orientation": "landscape",
   "icons": [
