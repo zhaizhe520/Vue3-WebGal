@@ -1,10 +1,6 @@
 <template>
   <div class="webgal-container">
-    <iframe 
-      src="/game/index.html" 
-      class="game-frame"
-      frameborder="0"
-    ></iframe>
+    <iframe src="/game/index.html" class="game-frame" frameborder="0"></iframe>
   </div>
 </template>
 
